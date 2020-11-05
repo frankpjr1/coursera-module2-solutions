@@ -6,11 +6,12 @@
   }
 body {
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
 }
 h1 {
 
   text-align: center;
-   padding-top: 100px;
+  padding-top: 100px;
   padding-bottom: 40px;
 }
 
@@ -44,8 +45,8 @@ h1 {
   position: absolute;
   right: 0px;
   text-align: center;
-  font-size: 1.5em;
-  font-weight: 700;  
+  font-size: 1.3em;
+  font-weight: 400;  
 
   
 }
@@ -62,10 +63,12 @@ h1 {
 
 .beef {
     background-color:#c14543;
+    color: white;
 }
 
 .sushi {
     background-color:#e5d198;
+    
     
 }
 
